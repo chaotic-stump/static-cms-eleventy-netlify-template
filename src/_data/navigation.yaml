@@ -1,9 +1,7 @@
 items:
-  - text: About Us
-    url: "#"
   - text: Menu Two
     url: "#"
-  - text: Menu Three
+  - text: About Us
     url: "#"
   - text: Blog
     url: /blog
